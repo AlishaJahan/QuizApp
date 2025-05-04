@@ -8,7 +8,7 @@ public class QuizApp {
         String[] questions = {
             "1. What is the capital of France?\nA. Rome\nB. Paris\nC. Berlin\nD. Madrid",
             "2. Which planet is known as the Red Planet?\nA. Venus\nB. Mars\nC. Jupiter\nD. Saturn",
-            "3. What is 5 + 7?\nA. 10\nB. 11\nC. 12\nD. 13"
+            "3. who is the chemical symbol of gold?\nA. Gd\nB. Af\nC. Ag\nD. Rq"
         };
 
         char[] answers = {'B', 'B', 'C'};
